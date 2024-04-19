@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/comments-tutorial/static/css/main.afcd89b6.css",
+    "main.js": "/comments-tutorial/static/js/main.44353447.js",
+    "static/js/453.4c199746.chunk.js": "/comments-tutorial/static/js/453.4c199746.chunk.js",
+    "index.html": "/comments-tutorial/index.html",
+    "main.afcd89b6.css.map": "/comments-tutorial/static/css/main.afcd89b6.css.map",
+    "main.44353447.js.map": "/comments-tutorial/static/js/main.44353447.js.map",
+    "453.4c199746.chunk.js.map": "/comments-tutorial/static/js/453.4c199746.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afcd89b6.css",
+    "static/js/main.44353447.js"
+  ]
+}
