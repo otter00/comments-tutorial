@@ -65,7 +65,7 @@ const SingleComment = ({
             <div
               className="comment-action"
               onClick={() =>
-                setActiveComment({ id: comment.id, type: "editiing" })
+                setActiveComment({ id: comment.id, type: "editing" })
               }
             >
               Edit
